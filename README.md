@@ -2,6 +2,8 @@
 
 Euclidian sequencer build in Max to be controlled by [monome arc](https://monome.org/docs/arc/)
 
+<img src="arclidian.gif" width="600" height="193" />  
+
 The main patch to open is called `arclidian.maxpat`
 
 ### Functions:
